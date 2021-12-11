@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://https://koran-minggu-ntlgm.ondigitalocean.app/sitemap.xml
+Sitemap: https://koran-minggu-ntlgm.ondigitalocean.app/sitemap.xml
